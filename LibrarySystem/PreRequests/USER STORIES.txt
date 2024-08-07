@@ -1,0 +1,38 @@
+USER STORIES
+
+1.As a user, I want to have a library card so that I can borrow books from the library.
+
+2.As a librarian, I want to add new books to the library's collection so that they can
+be available for borrowing.
+
+3.As a librarian, I want to remove books from the library's collection so that we can
+keep the collection up-to-date.
+
+4.As a librarian, I want to display a list of all the books in the library's collection so
+that users can easily find books they are interested in.
+
+
+
+public void SaveBorrowBooks()
+{
+    var sp = new StringBuilder();
+    var spBook = new StringBuilder();
+    foreach(var item in _borrowdBoks) 
+    {
+        var user = item.Key;
+        var books = item.Value;
+        for (int i = 0; i < books.Count; i++)
+        {
+            spBook.AppendLine($"{books[i].Title},{books[i].Auth},{books[i].Year},{books[i].Borrowed}");      
+        }
+        sp.AppendLine($"{user.Role},{user.Id},{user.UserName}:{spBook.ToString()}");
+                
+    }
+    File.WriteAllText("BorrowBooksDB.txt", sp.ToString());
+}
+
+
+1,293447,somaa
+2,211978,ahmed
+2,247568,yommna
+2,8867,koshy

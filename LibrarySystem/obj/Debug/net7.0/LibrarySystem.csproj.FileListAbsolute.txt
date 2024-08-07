@@ -1,0 +1,15 @@
+D:\DotNet-Track\C# && Dotnet\OPPP_Projrcts\LibrarySystem\LibrarySystem\bin\Debug\net7.0\LibrarySystem.exe
+D:\DotNet-Track\C# && Dotnet\OPPP_Projrcts\LibrarySystem\LibrarySystem\bin\Debug\net7.0\LibrarySystem.deps.json
+D:\DotNet-Track\C# && Dotnet\OPPP_Projrcts\LibrarySystem\LibrarySystem\bin\Debug\net7.0\LibrarySystem.runtimeconfig.json
+D:\DotNet-Track\C# && Dotnet\OPPP_Projrcts\LibrarySystem\LibrarySystem\bin\Debug\net7.0\LibrarySystem.dll
+D:\DotNet-Track\C# && Dotnet\OPPP_Projrcts\LibrarySystem\LibrarySystem\bin\Debug\net7.0\LibrarySystem.pdb
+D:\DotNet-Track\C# && Dotnet\OPPP_Projrcts\LibrarySystem\LibrarySystem\obj\Debug\net7.0\LibrarySystem.csproj.AssemblyReference.cache
+D:\DotNet-Track\C# && Dotnet\OPPP_Projrcts\LibrarySystem\LibrarySystem\obj\Debug\net7.0\LibrarySystem.GeneratedMSBuildEditorConfig.editorconfig
+D:\DotNet-Track\C# && Dotnet\OPPP_Projrcts\LibrarySystem\LibrarySystem\obj\Debug\net7.0\LibrarySystem.AssemblyInfoInputs.cache
+D:\DotNet-Track\C# && Dotnet\OPPP_Projrcts\LibrarySystem\LibrarySystem\obj\Debug\net7.0\LibrarySystem.AssemblyInfo.cs
+D:\DotNet-Track\C# && Dotnet\OPPP_Projrcts\LibrarySystem\LibrarySystem\obj\Debug\net7.0\LibrarySystem.csproj.CoreCompileInputs.cache
+D:\DotNet-Track\C# && Dotnet\OPPP_Projrcts\LibrarySystem\LibrarySystem\obj\Debug\net7.0\LibrarySystem.dll
+D:\DotNet-Track\C# && Dotnet\OPPP_Projrcts\LibrarySystem\LibrarySystem\obj\Debug\net7.0\refint\LibrarySystem.dll
+D:\DotNet-Track\C# && Dotnet\OPPP_Projrcts\LibrarySystem\LibrarySystem\obj\Debug\net7.0\LibrarySystem.pdb
+D:\DotNet-Track\C# && Dotnet\OPPP_Projrcts\LibrarySystem\LibrarySystem\obj\Debug\net7.0\LibrarySystem.genruntimeconfig.cache
+D:\DotNet-Track\C# && Dotnet\OPPP_Projrcts\LibrarySystem\LibrarySystem\obj\Debug\net7.0\ref\LibrarySystem.dll
